@@ -296,4 +296,4 @@ The EDA explains what is happening in the data, the Power BI dashboard lets anyo
 
 ## 👤 Author
 
-**Your Name** · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+**Your Name** · [LinkedIn](https://www.linkedin.com/in/aditya-pradhan-85677b34a/) 
