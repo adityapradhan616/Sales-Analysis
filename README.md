@@ -157,8 +157,8 @@ Each section has a short written insight underneath it.
 ```text
 images/Dashboard.png
 ```
-![Sales Analysis Dashboard](<img width="1428" height="801" alt="1st" src="https://github.com/user-attachments/assets/ca21a8f8-aaa6-4036-80d4-08e11322dc66" />
-)
+![Sales Analysis Dashboard]
+<img width="1428" height="801" alt="1st" src="https://github.com/user-attachments/assets/ca21a8f8-aaa6-4036-80d4-08e11322dc66" />
 <img width="1432" height="797" alt="2nd" src="https://github.com/user-attachments/assets/795d467c-5394-45aa-a8b5-0c76beba5add" />
 <img width="1432" height="798" alt="3rd" src="https://github.com/user-attachments/assets/46071670-b861-4584-be9f-e52289d4bd95" />
 
